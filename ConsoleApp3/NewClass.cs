@@ -6,9 +6,11 @@ namespace ConsoleApp3
 {
     class NewClass
     {
+
         static void Main(string[] args)
         {
-            
+            //Tanmara je moja najbolja prijateljica!
         }
+
     }
 }
