@@ -6,5 +6,6 @@ namespace ConsoleApp3
 {
     class NewClass
     {
+        //Tanmara je moja najbolja prijateljica!
     }
 }
